@@ -1,0 +1,49 @@
+.WorkoutList {
+    color: white;
+    background-color: rgb(22, 22, 22);
+    border-radius: 10px;
+    margin-top: 40px;
+    text-align: start;
+    border-bottom: 5px solid rgb(43, 42, 42);
+    box-sizing: border-box;
+    padding: 25px;
+    display: flex;
+    flex-flow: column;
+}
+.WorkoutLine {
+    padding: 5px;
+}
+
+.WorkoutLine img {
+    height: 70px;
+    width: 110px;
+    border-radius: 10px;
+    margin-right: 10px;
+    padding-top: 7px;
+}
+.topImage {
+    width: 100%;
+    height: 250px;
+    background-size: cover;
+}
+.WorkoutSpan {
+    font-size: larger;
+    font-weight: 400px;
+    margin-right: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.WorkoutSpanSec {
+    color: #1e7c9e;
+}
+.WorkoutH4 {
+    margin-top: -140px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+.WorkoutH2 {
+    font-size: 60px;
+    margin-top: -40px;
+    margin-left: 20px;
+}
